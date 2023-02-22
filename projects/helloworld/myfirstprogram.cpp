@@ -2,7 +2,10 @@
 using namespace std;
 
 int main() {
-  cout << "Hello World!"\n\n; //This is the first line seperating from the second by a blank line.
-  cout << "I am learning C++"; 
+    int x = 5;
+int y = 6;
+int sum = x + y;
+cout << sum;
   return 0;
 }
+
